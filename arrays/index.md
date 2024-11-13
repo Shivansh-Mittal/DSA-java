@@ -1,9 +1,9 @@
 # Solved Problems :
 
 ### Easy
-1. [Build Array from Permutation](./ArrayFromPermutationleetcode.java)
-2. [Concatenation of Array](./ConcatArrayleetcode.java)
-3. [Running Sum of 1d Array](./RunningSum1DArrayleetcode.java)
+1. ~~[Build Array from Permutation](./ArrayFromPermutationleetcode.java)~~
+2. ~~[Concatenation of Array](./ConcatArrayleetcode.java)~~
+3. ~~[Running Sum of 1d Array](./RunningSum1DArrayleetcode.java)~~
 4. [Richest Customer Wealth](./RichestWealth2DArrayleetcode.java)
 5. [Shuffle the Array](./ShuffleTheArrayleetcode.java)
 6. [Kids With the Greatest Number of Candies](./KidsWithGreatNoOfCandiesleetcode.java)
