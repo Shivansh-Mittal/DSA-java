@@ -4,9 +4,9 @@
 1. ~~[Build Array from Permutation](./ArrayFromPermutationleetcode.java)~~
 2. ~~[Concatenation of Array](./ConcatArrayleetcode.java)~~
 3. ~~[Running Sum of 1d Array](./RunningSum1DArrayleetcode.java)~~
-4. [Richest Customer Wealth](./RichestWealth2DArrayleetcode.java)
-5. [Shuffle the Array](./ShuffleTheArrayleetcode.java)
-6. [Kids With the Greatest Number of Candies](./KidsWithGreatNoOfCandiesleetcode.java)
+4. ~~[Richest Customer Wealth](./RichestWealth2DArrayleetcode.java)~~
+5. **[Shuffle the Array](./ShuffleTheArrayleetcode.java)**
+6. ~~[Kids With the Greatest Number of Candies](./KidsWithGreatNoOfCandiesleetcode.java)~~
 7. [Number of Good Pairs](./NumberOfGoodPairsleetcode.java)
 8. [How Many Numbers Are Smaller Than the Current Number](./NumbersSmallerthanCurrentleetcode.java)
 9. [Create Target Array in the Given Order](./CreateTargetArrInOrderleetcode.java)
