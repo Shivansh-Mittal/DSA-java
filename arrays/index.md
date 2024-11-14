@@ -10,7 +10,7 @@
 7. ~~[Number of Good Pairs](./NumberOfGoodPairsleetcode.java)~~
 8. ~~[How Many Numbers Are Smaller Than the Current Number](./NumbersSmallerthanCurrentleetcode.java)~~
 9. ~~[Create Target Array in the Given Order](./CreateTargetArrInOrderleetcode.java)~~
-10. [Check if the Sentence Is Pangram](./SentenceIsPangramleetcode.java)
+10. ~~[Check if the Sentence Is Pangram](./SentenceIsPangramleetcode.java)~~
 11. [Count Items Matching a Rule](./CountItemsMatchingRuleleetcode.java)
 12. [Find the Highest Altitude](./FindHighestAltitudeleetcode.java)
 13. [Flipping an Image](./FlippingAnImageleetcode.java)
