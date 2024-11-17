@@ -11,9 +11,9 @@
 8. ~~[How Many Numbers Are Smaller Than the Current Number](./NumbersSmallerthanCurrentleetcode.java)~~
 9. ~~[Create Target Array in the Given Order](./CreateTargetArrInOrderleetcode.java)~~
 10. ~~[Check if the Sentence Is Pangram](./SentenceIsPangramleetcode.java)~~
-11. [Count Items Matching a Rule](./CountItemsMatchingRuleleetcode.java)
-12. [Find the Highest Altitude](./FindHighestAltitudeleetcode.java)
-13. [Flipping an Image](./FlippingAnImageleetcode.java)
+11. ~~[Count Items Matching a Rule](./CountItemsMatchingRuleleetcode.java)~~
+12. ~~[Find the Highest Altitude](./FindHighestAltitudeleetcode.java)~~
+13. ~~[Flipping an Image](./FlippingAnImageleetcode.java)~~
 14. [Cells with Odd Values in a Matrix](./CellsWithOddValuesleetcode.java)
 15. [Matrix Diagonal Sum](./MatrixDiagonalSumleetcode.java)
 16. [Find Numbers with Even Number of Digits](./FindNoWithEvenDigitsleetcode.java)
