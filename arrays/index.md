@@ -15,9 +15,9 @@
 12. ~~[Find the Highest Altitude](./FindHighestAltitudeleetcode.java)~~
 13. ~~[Flipping an Image](./FlippingAnImageleetcode.java)~~
 14. ~~[Cells with Odd Values in a Matrix](./CellsWithOddValuesleetcode.java)~~
-15. [Matrix Diagonal Sum](./MatrixDiagonalSumleetcode.java)
-16. [Find Numbers with Even Number of Digits](./FindNoWithEvenDigitsleetcode.java)
-17. [Transpose Matrix](./TransposeOfMatrixleetcode.java)
+15. ~~[Matrix Diagonal Sum](./MatrixDiagonalSumleetcode.java)~~
+16. ~~[Find Numbers with Even Number of Digits](./FindNoWithEvenDigitsleetcode.java)~~
+17. ~~[Transpose Matrix](./TransposeOfMatrixleetcode.java)~~
 18. [Add to Array-Form of Integer](./AddToArrayFormleetcode.java)
 19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
